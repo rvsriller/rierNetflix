@@ -12,4 +12,4 @@ You can contribute with this project. Check the [github page](https://rvsriller.
 
 HTML 5 | CSS 3 | Javascript ES6 | Owl Carousel                                                                                  
 
-​                                                                                                                                                        ![](/img/NETFLIX.png)
+​                                                                                                                                                                                 ![](/img/NETFLIX.png)
