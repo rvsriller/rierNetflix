@@ -10,4 +10,4 @@ You can contribute with this project. Check the [github page](https://rvsriller.
 
 #### Tecnologies
 
-HTML 5 | CSS 3 | Javascript ES6 | Owl Carousel ![](C:\Users\Riller\Documents\Repositório\03 Netflix\img\NETFLIX.png)
+HTML 5 | CSS 3 | Javascript ES6 | Owl Carousel                                                                                            ![](img\NETFLIX.png)
