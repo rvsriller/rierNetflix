@@ -2,7 +2,7 @@
 
 #### Project provided by Digital Innovation One course
 
-#### ![](C:\Users\Riller\Documents\Repositório\03 Netflix\img\screenshot.png)
+#### ![](img\screenshot.png)
 
 Rebuilding the interface of the world's leading streaming site was amazing. The course selected technologies such as HTML5, CSS3 and JavaScript. I learned how to structure a layout, applied CSS3 techniques with containers and variables and I could position the elements with Flexbox.
 
