@@ -9,7 +9,7 @@
   box-sizing: border-box;
 }
 
-/* Base */
+/* Base da pagina */
 body {
   background: var(--preta);
   font-family: "Arial", Times, serif;
